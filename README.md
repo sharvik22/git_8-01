@@ -94,6 +94,5 @@
 
 
 # Решение:
-**Задание** 
-**Задание** 
-
+** Задание 1,2:  https://github.com/sharvik22/git_8-01.git** 
+** Задание 3:    https://github.com/sharvik22/git_8-01/network**
